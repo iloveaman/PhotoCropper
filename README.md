@@ -1,5 +1,7 @@
 # PhotoCropper
 
+这里有另外源码：http://pan.baidu.com/s/1sjsZWHR
+
 - [Sample](#sample)
 - [Usage](#usage)
   - [IMPORTANT NOTICE!!!](#important-notice!!!)
